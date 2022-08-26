@@ -1,4 +1,4 @@
-# TelegramCounterBot
+# Telegram Counter Bot
 A Telegram bot that count the number a specific command/phrase/word etc. is written in a Telegram chat
 
 ## Configuration
