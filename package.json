@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "dinoosauro",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
